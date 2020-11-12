@@ -41,6 +41,6 @@
 <a href="https://dev.to/francisdu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="francisdu" height="20" width="20" /></a> | 
 <a href="https://twitter.com/francis_run" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="francis_run" height="20" width="20" /></a> | 
 <a href="https://linkedin.com/in/francis-du" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="francis-du" height="20" width="20" /></a> | 
-<a href="https://www.youtube.com/c/francisdu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="francisdu" height="20" width="20" /></a> | 
+<a href="https://www.youtube.com/channel/UCFVmijl279L0A7ub8dzcGkg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="francisdu" height="20" width="20" /></a> | 
 <a href="/https://francis.run/index.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://francis.run/index.xml" height="15" width="15" /></a>
 </p>
