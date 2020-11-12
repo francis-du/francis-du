@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋 I'm Francis!</h1>
+<h4 align="center">A Software Enigneer and Co-organizer @GDG Beijing.</h4>
+
+<p align="center"> <a href="https://github.com/francis-du"><img src="https://github-profile-trophy.vercel.app/?username=francis-du&margin-w=25" alt="francis-du" /></a>
+</p>
+
 <table>
   <tr>
     <td valign="top">
@@ -13,13 +19,6 @@
   </tr>
 </table>
 
---------------------------------------------------------------------
-
-<h1 align="center">Hi 👋 I'm Francis!</h1>
-<h4 align="center">A Software Enigneer and Co-organizer @GDG Beijing.</h4>
-
-<p align="center"> <a href="https://github.com/francis-du"><img src="https://github-profile-trophy.vercel.app/?username=francis-du&margin-w=25" alt="francis-du" /></a>
-</p>
 
 <details>
 
