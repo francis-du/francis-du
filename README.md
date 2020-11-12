@@ -1,11 +1,18 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=francis-du&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://francis.run)
+<a href="https://francis.run">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=francis-du&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)" />
+</a>
+
+<a href="https://wakatime.com/@francis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=francis&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+
 
 --------------------------------------------------------------------
 
 <h1 align="center">Hi 👋, I'm Francis!</h1>
 <h5 align="center">I am s Software Enigneer and Co-organizer @GDG Beijing.</h5>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francis-du" alt="francis-du" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francis-du" alt="francis-du" /></a> </p>
 
 
 ![](https://img.shields.io/badge/Live%20status-orange?style=for-the-badge)
