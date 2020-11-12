@@ -1,10 +1,14 @@
-<table frame=void>
+<table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=francis-du&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+      <a href="https://francis.run">
+        <img src="https://github-readme-stats.vercel.app/api?username=francis-du&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+      <a/>
     </td>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=francis&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+      <a href="https://wakatime.com/@francis">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=francis&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+      <a/>
     </td>
   </tr>
 </table>
