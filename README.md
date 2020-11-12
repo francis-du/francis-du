@@ -1,12 +1,12 @@
 <table>
   <tr>
     <td valign="top">
-      <a href="https://francis.run">
+      <a href="https://francis.run" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=francis-du&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
       <a/>
     </td>
     <td valign="top">
-      <a href="https://wakatime.com/@francis">
+      <a href="https://wakatime.com/@francis" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=francis&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
       <a/>
     </td>
