@@ -21,6 +21,7 @@
 <p align="center"> <a href="https://github.com/francis-du"><img src="https://github-profile-trophy.vercel.app/?username=francis-du&margin-w=25" alt="francis-du" /></a>
 </p>
 
+<detials>
 
 ![Live Status](https://img.shields.io/badge/Live%20status-orange?style=for-the-badge)
 
@@ -48,3 +49,5 @@
 <a href="https://www.youtube.com/channel/UCFVmijl279L0A7ub8dzcGkg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="francisdu" height="20" width="20" /></a> | 
 <a href="/https://francis.run/index.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://francis.run/index.xml" height="15" width="15" /></a>
 </p>
+
+</details>
