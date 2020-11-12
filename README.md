@@ -18,7 +18,7 @@
 <h1 align="center">Hi 👋, I'm Francis!</h1>
 <h5 align="center">I am s Software Enigneer and Co-organizer @GDG Beijing.</h5>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francis-du" alt="francis-du" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francis-du&margin-w=25" alt="francis-du" /></a> </p>
 
 
 ![](https://img.shields.io/badge/Live%20status-orange?style=for-the-badge)
