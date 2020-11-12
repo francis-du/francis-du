@@ -21,7 +21,7 @@
 <p align="center"> <a href="https://github.com/francis-du"><img src="https://github-profile-trophy.vercel.app/?username=francis-du&margin-w=25" alt="francis-du" /></a>
 </p>
 
-<detials>
+<details>
 
 ![Live Status](https://img.shields.io/badge/Live%20status-orange?style=for-the-badge)
 
