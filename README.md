@@ -8,7 +8,7 @@
   <tr>
     <td valign="top">
       <a href="https://francis.run" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=francis-du&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+        <img src="https://github-readme-stats.vercel.app/api?username=francis-du&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
       <a/>
     </td>
     <td valign="top">
