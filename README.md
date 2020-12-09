@@ -13,7 +13,7 @@
     </td>
     <td valign="top">
       <a href="https://wakatime.com/@francis" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=francis&&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+        <img src="https://github-readme-stats-git.francisdu.vercel.app/api/wakatime?username=francis&hide=other,html,scss,css,yaml,xml,toml,markdown&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
       <a/>
     </td>
   </tr>
