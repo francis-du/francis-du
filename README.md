@@ -24,11 +24,11 @@
 
 ![Live Status](https://img.shields.io/badge/Live%20status-orange?style=for-the-badge)
 
-- 🔭 I’m currently working on [Koifish](https://github.com/trisasnava/koifish)
+- 🔭 I’m currently working on [iotdb-rs](https://github.com/francis-du/iotdb-rs)
 
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/learn)
 
-- 👯 I’m looking to collaborate on [Koifish](https://github.com/trisasnava/koifish)
+- 👯 I’m looking to collaborate on [iotdb-rs](https://github.com/francis-du/iotdb-rs)
 
 - 📝 I regulary write articles on [https://francis.run](https://francis.run)
 
