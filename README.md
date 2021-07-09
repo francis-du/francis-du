@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋 I'm Francis!</h1>
 
-<p align="center"> <a href="https://github.com/francis-du"><img src="https://github-profile-trophy.vercel.app/?username=francis-du&margin-w=25" alt="francis-du" /></a>
-</p>
+- 🔭  I’m currently working on [iotdb-rs](https://github.com/francis-du/iotdb-rs)
+
+- 🌱  I’m currently learning [Rust](https://www.rust-lang.org/learn)
+
+- 👯  I’m looking to collaborate on [iotdb-rs](https://github.com/francis-du/iotdb-rs)
+
+- 📝  I regulary write articles on [https://francis.run](https://francis.run)
+
+- 📄  Know about my experiences [https://francis.run/about/](https://francis.run/about/)
 
 <table>
   <tr>
@@ -18,14 +25,8 @@
   </tr>
 </table>
 
-![Live Status](https://img.shields.io/badge/Live%20status-orange?style=for-the-badge)
+![snake gif](https://github.com/francis-du/francis-du/blob/output/snake.gif)
 
-- 🔭  I’m currently working on [iotdb-rs](https://github.com/francis-du/iotdb-rs)
 
-- 🌱  I’m currently learning [Rust](https://www.rust-lang.org/learn)
-
-- 👯  I’m looking to collaborate on [iotdb-rs](https://github.com/francis-du/iotdb-rs)
-
-- 📝  I regulary write articles on [https://francis.run](https://francis.run)
-
-- 📄  Know about my experiences [https://francis.run/about/](https://francis.run/about/)
+<!-- <p align="center"> <a href="https://github.com/francis-du"><img src="https://github-profile-trophy.vercel.app/?username=francis-du&margin-w=25" alt="francis-du" /></a>
+</p> -->
