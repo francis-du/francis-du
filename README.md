@@ -1,3 +1,5 @@
+![snake gif](https://github.com/francis-du/francis-du/blob/output/snake.svg)
+
 <h1 align="center">Hi 👋 I'm Francis!</h1>
 
 - 🔭  I’m currently working on [iotdb-rs](https://github.com/francis-du/iotdb-rs)
@@ -24,8 +26,6 @@
     </td>
   </tr>
 </table>
-
-![snake gif](https://github.com/francis-du/francis-du/blob/output/snake.svg)
 
 
 <!-- <p align="center"> <a href="https://github.com/francis-du"><img src="https://github-profile-trophy.vercel.app/?username=francis-du&margin-w=25" alt="francis-du" /></a>
