@@ -1,5 +1,22 @@
 <h1 align="center">Hi there 👋 I'm Francis!</h1>
 
+- 🔭 I’m currently working on [iotdb-rs](https://github.com/francis-du/iotdb-rs)
+
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/learn)
+
+- 👯 I’m looking to collaborate on [iotdb-rs](https://github.com/francis-du/iotdb-rs)
+
+- 📝 I regulary write articles on [https://francis.run](https://francis.run)
+
+- 📄 Know about my experiences [https://francis.run/about/](https://francis.run/about/)
+
+<h1></h1>
+
+![snake gif](https://github.com/francis-du/francis-du/blob/output/snake.svg)
+
+<h1></h1>
+
+
 <table>
   <tr>
     <td valign="top">
@@ -14,21 +31,6 @@
     </td>
   </tr>
 </table>
-
-
-- 🔭 I’m currently working on [iotdb-rs](https://github.com/francis-du/iotdb-rs)
-
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/learn)
-
-- 👯 I’m looking to collaborate on [iotdb-rs](https://github.com/francis-du/iotdb-rs)
-
-- 📝 I regulary write articles on [https://francis.run](https://francis.run)
-
-- 📄 Know about my experiences [https://francis.run/about/](https://francis.run/about/)
-
-<h1></h1>
-
-![snake gif](https://github.com/francis-du/francis-du/blob/output/snake.svg)
 
 <!-- <p align="center"> <a href="https://github.com/francis-du"><img src="https://github-profile-trophy.vercel.app/?username=francis-du&margin-w=25" alt="francis-du" /></a>
 </p> -->
