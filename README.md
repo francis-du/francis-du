@@ -25,7 +25,7 @@
   </tr>
 </table>
 
-![snake gif](https://github.com/francis-du/francis-du/blob/output/snake.gif)
+![snake gif](https://github.com/francis-du/francis-du/blob/output/snake.svg)
 
 
 <!-- <p align="center"> <a href="https://github.com/francis-du"><img src="https://github-profile-trophy.vercel.app/?username=francis-du&margin-w=25" alt="francis-du" /></a>
