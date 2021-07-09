@@ -16,15 +16,15 @@
 </table>
 
 
-- 🔭  I’m currently working on [iotdb-rs](https://github.com/francis-du/iotdb-rs)
+- 🔭 I’m currently working on [iotdb-rs](https://github.com/francis-du/iotdb-rs)
 
-- 🌱  I’m currently learning [Rust](https://www.rust-lang.org/learn)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/learn)
 
-- 👯  I’m looking to collaborate on [iotdb-rs](https://github.com/francis-du/iotdb-rs)
+- 👯 I’m looking to collaborate on [iotdb-rs](https://github.com/francis-du/iotdb-rs)
 
-- 📝  I regulary write articles on [https://francis.run](https://francis.run)
+- 📝 I regulary write articles on [https://francis.run](https://francis.run)
 
-- 📄  Know about my experiences [https://francis.run/about/](https://francis.run/about/)
+- 📄 Know about my experiences [https://francis.run/about/](https://francis.run/about/)
 
 <h1></h1>
 
