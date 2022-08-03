@@ -2,12 +2,11 @@
 
 - 🦀️ I’m currently learning [Rust](https://www.rust-lang.org/learn) 
 - ☎️  I live on [Discord](https://discord.gg/dd6JZteeyd)
+
 <h1></h1>
 
 ![snake gif](https://github.com/francis-du/francis-du/blob/output/snake.svg)
-
 <h1></h1>
-
 
 <table>
   <tr>
@@ -23,6 +22,3 @@
     </td>
   </tr>
 </table>
-
-<!-- <p align="center"> <a href="https://github.com/francis-du"><img src="https://github-profile-trophy.vercel.app/?username=francis-du&margin-w=25" alt="francis-du" /></a>
-</p> -->
