@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Francis!</h1>
 
 - 🦀️ I’m currently learning [Rust](https://www.rust-lang.org/learn) 
-- ☎️  I live on [Discord](https://discord.gg/dd6JZteeyd) & [TG](https://t.me/francisdu)
+- ☎️  I live on [Discord](https://discord.gg/dd6JZteeyd) & [Telegram](https://t.me/francisdu)
 
 <h1></h1>
 
