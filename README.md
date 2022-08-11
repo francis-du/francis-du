@@ -4,14 +4,14 @@
 
 <h1></h1>
 
-![snake gif](https://github.com/francis-du/francis-du/blob/output/snake.svg)
-
-<h1></h1>
-
-<h1></h1>
-
 - 🦀️ I’m currently learning [Rust](https://www.rust-lang.org/learn) 
 - ☎️  I live on [Discord](https://discord.gg/dd6JZteeyd) & [Telegram](https://t.me/francisdu)
+
+<h1></h1>
+
+<h1></h1>
+
+![snake gif](https://github.com/francis-du/francis-du/blob/output/snake.svg)
 
 <h1></h1>
 
