@@ -5,7 +5,13 @@
 <h1></h1>
 
 - 🦀️ I’m currently learning [Rust](https://www.rust-lang.org/learn) 
-- ☎️  I live on [Discord](https://discord.gg/dd6JZteeyd) & [Telegram](https://t.me/francisdu)
+
+- 📱 I live on
+
+[![image](https://user-images.githubusercontent.com/25944814/196490606-cc744c8a-390b-4263-bd7c-a299822315da.png)](https://discord.gg/dd6JZteeyd)
+
+[![image](https://user-images.githubusercontent.com/25944814/196490470-68eb7799-46c5-4287-8b78-464670389d7b.png)](https://t.me/francisdu)
+
 - 💻 I'm working for
 
 ![image](https://user-images.githubusercontent.com/25944814/196488416-cf78b8ef-fd10-491b-a898-da0d833cf0a7.png)
@@ -13,8 +19,7 @@
 ![image](https://user-images.githubusercontent.com/25944814/196488140-33394dfd-677c-4639-97ca-c131606b21db.png)
 
 <h1></h1>
-
-<h1></h1>
+<h1 align="center">Look! Here is a GitHub commits Тетрис! </h1>
 
 ![snake gif](https://github.com/francis-du/francis-du/blob/output/snake.svg)
 
