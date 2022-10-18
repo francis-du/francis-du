@@ -14,9 +14,9 @@
 
 - 💻 I'm working for
 
-![image](https://user-images.githubusercontent.com/25944814/196488416-cf78b8ef-fd10-491b-a898-da0d833cf0a7.png)
+[![image](https://user-images.githubusercontent.com/25944814/196488416-cf78b8ef-fd10-491b-a898-da0d833cf0a7.png)](https://github.com/apache/arrow-datafusion-python)
 
-![image](https://user-images.githubusercontent.com/25944814/196488140-33394dfd-677c-4639-97ca-c131606b21db.png)
+[![image](https://user-images.githubusercontent.com/25944814/196488140-33394dfd-677c-4639-97ca-c131606b21db.png)](https://github.com/apache/arrow-datafusion)
 
 <h1></h1>
 <h1 align="center">Look! Here is a GitHub commits Тетрис! </h1>
