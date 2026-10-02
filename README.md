@@ -28,8 +28,6 @@ I'm also building a **private Data Agent project**, with a focus on retrieval, t
   &nbsp;·&nbsp;
   <a href="https://t.me/francisdu">Telegram</a>
   &nbsp;·&nbsp;
-  <a href="https://www.xiaohongshu.com/user/profile/644a0966000000001002b32b">小红书</a>
-  &nbsp;·&nbsp;
   <a href="mailto:francis@francis.run">Email</a>
 </p>
 
@@ -121,8 +119,6 @@ I'm also building a **private Data Agent project**, with a focus on retrieval, t
       <p>Travel, everyday life and the moments I want to keep. A different way of paying attention.</p>
       <p>
         <a href="https://francis.run/gallery/"><strong>Browse the gallery ↗</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://www.xiaohongshu.com/user/profile/644a0966000000001002b32b">小红书 / Red Note</a>
       </p>
     </td>
   </tr>
