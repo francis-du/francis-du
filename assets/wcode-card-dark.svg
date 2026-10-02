@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="160" viewBox="0 0 640 160" role="img" aria-labelledby="title desc">
+  <title id="title">wcode</title>
+  <desc id="desc">Repository tools for coding agents, represented by connected code and verification nodes.</desc>
+  <defs><linearGradient id="background" x2="1" y2="1"><stop stop-color="#211b33"/><stop offset="1" stop-color="#161b26"/></linearGradient><linearGradient id="brand" x2="1" y2="0.3"><stop stop-color="#b0a0ff"/><stop offset="1" stop-color="#efa0c9"/></linearGradient></defs>
+  <rect x="1" y="1" width="638" height="158" rx="20" fill="url(#background)" stroke="#443951"/>
+  <g transform="translate(25 26) scale(1.12)"><path d="M11 29L27 68C29 73 35 74 39 68L48 53L57 68C61 74 67 73 69 68L84 29" fill="none" stroke="url(#brand)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M84 14V22M80 18H88" fill="none" stroke="#f2bb68" stroke-width="3.5" stroke-linecap="round"/></g>
+  <text x="134" y="103" fill="#f5efff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="76" font-weight="750" letter-spacing="-4">code</text>
+  <g fill="none" stroke="url(#brand)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M448 56H488Q500 56 500 68V92Q500 104 512 104H544" opacity="0.5"/><path d="M448 56V118H500" opacity="0.25"/><rect x="417" y="34" width="44" height="44" rx="13" fill="#302540"/><path d="M435 47L427 56L435 65M443 47L451 56L443 65"/><rect x="544" y="82" width="44" height="44" rx="13" fill="#392637"/><path d="M554 104L562 112L578 96"/><circle cx="508" cy="118" r="5" fill="#bca5e1" stroke="none"/></g>
+</svg>

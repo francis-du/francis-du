@@ -1,35 +1,19 @@
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=28A172&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I+am+Francis." alt="Typing SVG" /></a>
-</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/francis-banner-dark.svg" />
+  <img src="./assets/francis-banner.svg" width="960" alt="Francis Du — data, agents and photography." />
+</picture>
 
 <!-- personal-profile:start -->
 
-<p align="center">
-  <strong>Data Engineer &nbsp;·&nbsp; Agent Developer</strong><br />
-  <sub>🦀 Rustacean &nbsp;·&nbsp; 📷 Photographer &nbsp;·&nbsp; 🤖 Vibe Coder</sub>
-</p>
+**Data engineer & agent developer. Rustacean. Photographer.**
 
-<p align="center">
-  <a href="https://francis.run/"><strong>francis.run ↗</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://francis.run/about/">About me</a>
-  &nbsp;·&nbsp;
-  <a href="https://francis.run/gallery/">Photography</a>
-</p>
+[francis.run ↗](https://francis.run/) &nbsp; · &nbsp; [About me](https://francis.run/about/) &nbsp; · &nbsp; [Photography](https://francis.run/gallery/)
 
 I'm **Francis Du**. I work on data platforms, distributed systems and query engines, write Rust, and build tools for agents. Away from the terminal, I like to capture travel and everyday life through photography.
 
 I'm also building a **private Data Agent project**, with a focus on retrieval, tool use, orchestration and reliability. My work includes agent engineering and evaluation. I've contributed to [Apache DataFusion](https://github.com/apache/datafusion) and [DataFusion Python](https://github.com/apache/datafusion-python).
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/francis-du/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://twitter.com/francis_run">X / @francis_run</a>
-  &nbsp;·&nbsp;
-  <a href="https://t.me/francisdu">Telegram</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:francis@francis.run">Email</a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/francis-du/) &nbsp; · &nbsp; [X / @francis_run](https://twitter.com/francis_run) &nbsp; · &nbsp; [Telegram](https://t.me/francisdu) &nbsp; · &nbsp; [Email](mailto:francis@francis.run)
 
 <details>
   <summary>关于我 · 中文</summary>
@@ -42,86 +26,56 @@ I'm also building a **private Data Agent project**, with a focus on retrieval, t
 
 </details>
 
-<br />
-
 <!-- personal-profile:end -->
 
 <!-- featured-projects:start -->
 
-<p align="center">
-  <samp>BETTER TOOLS. BETTER WORKFLOWS. BETTER SOUND.</samp>
-</p>
+## What I'm building
 
-<h2 align="center">What I'm building</h2>
+### [wcode](https://github.com/francis-du/wcode)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/francis-du/wcode">
-        <img src="./assets/wcode-card.svg" width="100%" alt="wcode — repository tools for coding agents" />
-      </a>
-      <h3>wcode</h3>
-      <p><strong>Better tools for coding agents.</strong></p>
-      <p>Connect your coding assistant to repository context, guarded edits and verifiable checks through MCP.</p>
-      <p><sub>Code navigation · Task tracking · Revision-bound checks</sub></p>
-      <p><code>Rust</code> <code>MCP</code> <code>Apache-2.0</code></p>
-      <p>
-        <a href="https://github.com/francis-du/wcode"><strong>Explore repo ↗</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://wcode.francis.run/">Website</a>
-        &nbsp;·&nbsp;
-        <a href="https://wcode.francis.run/docs/">Docs</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/francis-du/maris">
-        <img src="./assets/maris-card.svg" width="100%" alt="Maris — system audio tuning" />
-      </a>
-      <h3>Maris</h3>
-      <p><strong>Your sound, fine-tuned.</strong></p>
-      <p>Tune system audio with headphone correction, listening presets and a flexible multi-input mixer.</p>
-      <p><sub>EQ &amp; presets · Dual-output mixing · Terminal &amp; MCP</sub></p>
-      <p><code>Rust</code> <code>Audio DSP</code> <code>In development</code></p>
-      <p>
-        <a href="https://github.com/francis-du/maris"><strong>Explore repo ↗</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/francis-du/maris/blob/main/docs/en/index.md">Docs</a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/francis-du/maris/blob/main/docs/zh-CN/index.md">中文</a>
-      </p>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/francis-du/wcode">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/wcode-card-dark.svg" />
+    <img src="./assets/wcode-card.svg" width="640" alt="wcode — repository tools for coding agents." />
+  </picture>
+</a>
 
-<p align="center">
-  <sub>Maris is a development build. Public release is pending cross-platform validation.</sub>
-</p>
+Connect your coding assistant to repository context, guarded edits and verifiable checks through MCP. I want an agent to understand the code it's changing and leave something I can check.
+
+`Rust` · `MCP` · `Apache-2.0`
+
+[Repository ↗](https://github.com/francis-du/wcode) &nbsp; · &nbsp; [Website](https://wcode.francis.run/) &nbsp; · &nbsp; [Docs](https://wcode.francis.run/docs/)
+
+### [Maris](https://github.com/francis-du/maris)
+
+<a href="https://github.com/francis-du/maris">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/maris-card-dark.svg" />
+    <img src="./assets/maris-card.svg" width="640" alt="Maris — system audio tuning." />
+  </picture>
+</a>
+
+A system audio console for headphone correction, listening presets and multi-input mixing. Adjust a setting, compare the sound, and undo it when it doesn't help.
+
+`Rust` · `Audio DSP` · `In development`
+
+[Repository ↗](https://github.com/francis-du/maris) &nbsp; · &nbsp; [Docs](https://github.com/francis-du/maris/blob/main/docs/en/index.md) &nbsp; · &nbsp; [中文](https://github.com/francis-du/maris/blob/main/docs/zh-CN/index.md)
+
+Maris is a development build. Public release is pending cross-platform validation.
 
 <!-- featured-projects:end -->
 
 <!-- beyond-code:start -->
 
-<h2 align="center">Writing &amp; photography</h2>
+## Writing & photography
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✍️ Field notes</h3>
-      <p>Notes on Rust, agent engineering and the things I learn while building wcode.</p>
-      <p>
-        <a href="https://francis.run/blogs/"><strong>Read the blog ↗</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://francis.run/about/">More about me</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📷 Away from the terminal</h3>
-      <p>Travel, everyday life and the moments I want to keep. A different way of paying attention.</p>
-      <p>
-        <a href="https://francis.run/gallery/"><strong>Browse the gallery ↗</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+Notes on the tools I'm building and the choices behind them.
+
+- [wcode 0.9.0: working with multiple coding agents](https://francis.run/en/blog/wcode-v0-9/)
+- [Maris: tune your computer's sound to your taste](https://francis.run/en/blog/maris-studio/)
+- [More field notes ↗](https://francis.run/blogs/)
+
+Away from the terminal, there's a [gallery of travel and everyday life](https://francis.run/gallery/). A different way of paying attention.
 
 <!-- beyond-code:end -->
