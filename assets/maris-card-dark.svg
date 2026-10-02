@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="160" viewBox="0 0 640 160" role="img" aria-labelledby="title desc">
   <title id="title">Maris</title>
   <desc id="desc">System audio tuning, represented by a wave-shaped M and a sound spectrum.</desc>
-  <defs><linearGradient id="background" x2="1" y2="1"><stop stop-color="#effaf5"/><stop offset="1" stop-color="#f3f3fd"/></linearGradient><linearGradient id="brand" x2="1" y2="0.3"><stop stop-color="#208970"/><stop offset="1" stop-color="#727eb8"/></linearGradient><linearGradient id="spectrum" x2="1"><stop stop-color="#47a58e"/><stop offset="1" stop-color="#8b95c8"/></linearGradient></defs>
-  <rect x="1" y="1" width="638" height="158" rx="20" fill="url(#background)" stroke="#d3e5de"/>
+  <defs><linearGradient id="background" x2="1" y2="1"><stop stop-color="#152b29"/><stop offset="1" stop-color="#171d2b"/></linearGradient><linearGradient id="brand" x2="1" y2="0.3"><stop stop-color="#9aeed5"/><stop offset="1" stop-color="#a8b8ff"/></linearGradient><linearGradient id="spectrum" x2="1"><stop stop-color="#8be6cc"/><stop offset="1" stop-color="#a8b8ff"/></linearGradient></defs>
+  <rect x="1" y="1" width="638" height="158" rx="20" fill="url(#background)" stroke="#31504c"/>
   <g transform="translate(22 19) scale(1.85)"><path d="M10 46C15 46 16 18 23 18C29 18 28 38 32 38C36 38 35 18 41 18C48 18 49 46 54 46" fill="none" stroke="url(#brand)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></g>
-  <text x="140" y="100" fill="#234b45" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="58" font-weight="650" letter-spacing="2">MARIS</text>
+  <text x="140" y="100" fill="#eafaf3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="58" font-weight="650" letter-spacing="2">MARIS</text>
   <g stroke="url(#spectrum)" stroke-width="6" stroke-linecap="round"><path d="M441 66V94" opacity="0.4"/><path d="M459 50V110" opacity="0.55"/><path d="M477 37V123" opacity="0.7"/><path d="M495 59V101" opacity="0.85"/><path d="M513 68V92"/><path d="M531 46V114"/><path d="M549 30V130"/><path d="M567 53V107" opacity="0.85"/><path d="M585 66V94" opacity="0.6"/></g>
 </svg>
