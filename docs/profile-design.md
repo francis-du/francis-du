@@ -1,50 +1,25 @@
-# Profile artwork and previews
+# Profile layout
 
-The profile uses local SVG artwork and GitHub's own Markdown layout. The main introduction, project descriptions and links remain selectable text. Project sections stack vertically so the descriptions stay readable on a phone.
+One theme-aware banner, a short introduction and two project entries. Project descriptions and links use GitHub Markdown and remain selectable text. The articles sit beside their projects; photography and all existing contact links remain accessible.
 
-`assets/francis-banner.svg`, `assets/wcode-card.svg` and `assets/maris-card.svg` are the light defaults. Each has a `-dark.svg` partner selected by `<picture>`. The SVGs contain a title and description, use system fonts, and load no scripts or external resources. Keep the project names large; put detailed copy in the README rather than inside an image.
+The banner uses local SVGs without scripts or external resources. GitHub supports the light/dark `<picture>` pattern in its [writing quickstart](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github#adding-an-image-to-suit-your-visitors).
 
-GitHub documents this image pattern in its [writing quickstart](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github#adding-an-image-to-suit-your-visitors). Its [Markdown API](https://docs.github.com/en/rest/markdown/markdown) provides the actual sanitized rendering:
+## Desktop
 
-```sh
-gh api --method POST /markdown \
-  -f mode=gfm \
-  -f context=francis-du/francis-du \
-  -F text=@README.md
-```
+Actual GitHub README at [f13e27c](https://github.com/francis-du/francis-du/tree/f13e27c18ab10bf19554341e32042a1d0ba08fd2), captured in Chrome on 2026-10-03. These crops use GitHub's own layout, at a 1440 px viewport.
 
-## Captured on GitHub
+![Desktop, light theme](previews/profile-light-1440.png)
 
-These are screenshots of the actual README on GitHub at [df2312e](https://github.com/francis-du/francis-du/tree/df2312eb5c8a2661bc2fedc24bdbd9923d4b6d3a), captured on 2026-10-02 in Chrome. The crop contains the rendered README; no substitute website stylesheet was applied.
+![Desktop, dark theme](previews/profile-dark-1440.png)
 
-The review covered 320, 390, 768 and 1440 px viewports in both light and dark mode. All three images loaded and selected the correct theme, body text was 16 px, the README had no horizontal overflow, and the Chinese disclosure opened with the keyboard. GitHub's surrounding repository controls are outside these crops.
+## Phone
 
-### Desktop · light
+The same README at a 390 px viewport.
 
-1440 px viewport, 838 px README.
+![Phone, light theme](previews/profile-light-390.png)
 
-![Actual GitHub README in light mode on desktop](previews/profile-light-1440.png)
+![Phone, dark theme](previews/profile-dark-390.png)
 
-### Desktop · dark
+## Maintenance
 
-1440 px viewport, 838 px README.
-
-![Actual GitHub README in dark mode on desktop](previews/profile-dark-1440.png)
-
-### Phone · light
-
-390 px viewport, 324 px README.
-
-![Actual GitHub README in light mode on a phone](previews/profile-light-390.png)
-
-### Phone · dark
-
-390 px viewport, 324 px README.
-
-![Actual GitHub README in dark mode on a phone](previews/profile-dark-390.png)
-
-## Content and automation
-
-Keep the existing `personal-profile`, `featured-projects` and `beyond-code` region markers. They identify hand-maintained sections. Only public projects are linked; Maris retains its development status. Writing links introduce the products and do not promise a release that has not been published.
-
-The contribution-snake workflow publishes generated artwork to its separate `output` branch. It must not force-push `master`: a scheduled run can otherwise overwrite another session's newer profile changes.
+Keep the `personal-profile`, `featured-projects` and `beyond-code` markers. The contribution-snake workflow writes only its separate `output` branch; it must not force-push the profile's `master` branch.
