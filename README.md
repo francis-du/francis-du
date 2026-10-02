@@ -5,22 +5,22 @@
 
 <!-- personal-profile:start -->
 
-做数据工程和 Agent 开发，主要写 Rust。关注数据平台、分布式系统和查询引擎，也喜欢摄影。
+I work on data platforms, distributed systems and query engines, mostly in Rust. I also build tools for agents and enjoy photography.
 
-参与过 [Apache DataFusion](https://github.com/apache/datafusion) 和 [DataFusion Python](https://github.com/apache/datafusion-python) 的开源贡献。
+I've contributed to [Apache DataFusion](https://github.com/apache/datafusion) and [DataFusion Python](https://github.com/apache/datafusion-python).
 
-[博客](https://francis.run/) · [相册](https://francis.run/gallery/) · [关于我](https://francis.run/about/)
+[Blog](https://francis.run/en/) · [Photography](https://francis.run/gallery/) · [About](https://francis.run/en/about/)
 
 <!-- personal-profile:end -->
 
 <!-- featured-projects:start -->
 
-## 在做的项目
+## Projects
 
-- **[wcode](https://github.com/francis-du/wcode)** — 让 coding agent 理解仓库、协作改代码。<br />
-  [文档](https://wcode.francis.run/docs/) · [wcode 0.9.0](https://francis.run/blog/wcode-v0-9/)
-- **[Maris](https://github.com/francis-du/maris)** — 给电脑调音：耳机校正、均衡器和应用混音。<br />
-  [文档](https://github.com/francis-du/maris/blob/main/docs/zh-CN/index.md) · [使用介绍](https://francis.run/blog/maris-studio/)
+- **[wcode](https://github.com/francis-du/wcode)** — Repository context and collaboration tools for coding agents.<br />
+  [Docs](https://wcode.francis.run/docs/) · [wcode 0.9.0](https://francis.run/en/blog/wcode-v0-9/)
+- **[Maris](https://github.com/francis-du/maris)** — Headphone correction, EQ and app mixing for your computer's audio.<br />
+  [Docs](https://github.com/francis-du/maris/blob/main/docs/en/index.md) · [Introduction](https://francis.run/en/blog/maris-studio/)
 
 <!-- featured-projects:end -->
 
