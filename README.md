@@ -70,10 +70,10 @@ Maris is a development build. Public release is pending cross-platform validatio
 
 ## Writing & photography
 
-I write about the work while I'm doing it: what broke, what I changed, and what still needs checking.
+Notes on the tools I'm building and the choices behind them.
 
-- [Running wcode in parallel exposed a few small problems](https://francis.run/en/blog/wcode-parallel-work/)
-- [Maris: building an audio console I would want to use](https://francis.run/en/blog/maris-studio/)
+- [wcode 0.9.0: working with multiple coding agents](https://francis.run/en/blog/wcode-v0-9/)
+- [Maris: tune your computer's sound to your taste](https://francis.run/en/blog/maris-studio/)
 - [More field notes ↗](https://francis.run/blogs/)
 
 Away from the terminal, there's a [gallery of travel and everyday life](https://francis.run/gallery/). A different way of paying attention.
